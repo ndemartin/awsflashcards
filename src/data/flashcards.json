@@ -1,0 +1,654 @@
+{
+  "flashcards": [
+      {
+        "category": "Analytics",
+        "service": "Amazon Athena",
+        "description": "Serverless, interactive query service that analyzes data in Amazon S3 using SQL."
+      },
+      {
+        "category": "Analytics",
+        "service": "AWS Data Exchange",
+        "description": "Enables customers to find, subscribe to, and use third-party data in AWS securely."
+      },
+      {
+        "category": "Analytics",
+        "service": "AWS Data Pipeline",
+        "description": "Orchestration service for automating data movement and transformation across AWS and on-premises."
+      },
+      {
+        "category": "Analytics",
+        "service": "Amazon EMR",
+        "description": "Managed service for running big data frameworks like Apache Spark and Hadoop on AWS."
+      },
+      {
+        "category": "Analytics",
+        "service": "AWS Glue",
+        "description": "Serverless data integration service for ETL (Extract, Transform, Load) and data cataloging."
+      },
+      {
+        "category": "Analytics",
+        "service": "Amazon Kinesis",
+        "description": "Real-time data streaming service for collecting, processing, and analyzing data streams."
+      },
+      {
+        "category": "Analytics",
+        "service": "AWS Lake Formation",
+        "description": "Service for building, securing, and managing data lakes in AWS."
+      },
+      {
+        "category": "Analytics",
+        "service": "Amazon Managed Streaming for Apache Kafka (Amazon MSK)",
+        "description": "Managed service for Apache Kafka, enabling real-time data streaming with minimal operational overhead."
+      },
+      {
+        "category": "Analytics",
+        "service": "Amazon OpenSearch Service",
+        "description": "Managed service for OpenSearch (formerly Elasticsearch) for log analytics and search applications."
+      },
+      {
+        "category": "Analytics",
+        "service": "Amazon QuickSight",
+        "description": "Scalable, serverless business intelligence (BI) service for dashboards and data visualization."
+      },
+      {
+        "category": "Analytics",
+        "service": "Amazon Redshift",
+        "description": "Fully managed cloud data warehouse for petabyte-scale analytics using SQL."
+      },
+      {
+        "category": "Application Integration",
+        "service": "Amazon AppFlow",
+        "description": "Integrates SaaS applications and AWS services to automate data flows."
+      },
+      {
+        "category": "Application Integration",
+        "service": "AWS AppSync",
+        "description": "Managed GraphQL service for building real-time and offline applications."
+      },
+      {
+        "category": "Application Integration",
+        "service": "Amazon EventBridge",
+        "description": "Serverless event bus for connecting applications using event-driven architecture."
+      },
+      {
+        "category": "Application Integration",
+        "service": "Amazon MQ",
+        "description": "Managed message broker service supporting open-source standards like ActiveMQ and RabbitMQ."
+      },
+      {
+        "category": "Application Integration",
+        "service": "Amazon Simple Notification Service (Amazon SNS)",
+        "description": "Pub/sub messaging service for sending notifications to distributed systems, SMS, and email."
+      },
+      {
+        "category": "Application Integration",
+        "service": "Amazon Simple Queue Service (Amazon SQS)",
+        "description": "Fully managed message queuing service for decoupling components of cloud applications."
+      },
+      {
+        "category": "Application Integration",
+        "service": "AWS Step Functions",
+        "description": "Serverless workflow service for coordinating AWS services and automating business processes."
+      },
+      {
+        "category": "AWS Cost Management",
+        "service": "AWS Budgets",
+        "description": "Cost management tool for setting and tracking AWS usage and cost budgets."
+      },
+      {
+        "category": "AWS Cost Management",
+        "service": "AWS Cost and Usage Report",
+        "description": "Detailed cost and usage reports for analyzing AWS spend."
+      },
+      {
+        "category": "AWS Cost Management",
+        "service": "AWS Cost Explorer",
+        "description": "Tool for visualizing and analyzing AWS cost and usage trends."
+      },
+      {
+        "category": "AWS Cost Management",
+        "service": "Savings Plans",
+        "description": "Flexible pricing model that offers lower AWS compute costs in exchange for a usage commitment."
+      },
+      {
+        "category": "Compute",
+        "service": "AWS Batch",
+        "description": "Fully managed batch computing service for running large-scale parallel jobs."
+      },
+      {
+        "category": "Compute",
+        "service": "Amazon EC2",
+        "description": "Scalable virtual servers in the cloud for running applications."
+      },
+      {
+        "category": "Compute",
+        "service": "Amazon EC2 Auto Scaling",
+        "description": "Automatically adjusts EC2 capacity to maintain performance and minimize cost."
+      },
+      {
+        "category": "Compute",
+        "service": "AWS Elastic Beanstalk",
+        "description": "PaaS service that automatically handles deployment and scaling of applications."
+      },
+      {
+        "category": "Compute",
+        "service": "AWS Outposts",
+        "description": "Brings AWS infrastructure and services to on-premises locations."
+      },
+      {
+        "category": "Compute",
+        "service": "AWS Serverless Application Repository",
+        "description": "Catalog of pre-built serverless applications to deploy in AWS."
+      },
+      {
+        "category": "Compute",
+        "service": "VMware Cloud on AWS",
+        "description": "Enables running VMware workloads on AWS infrastructure."
+      },
+      {
+        "category": "Compute",
+        "service": "AWS Wavelength",
+        "description": "Brings AWS services to 5G networks for ultra-low latency applications."
+      },
+      {
+        "category": "Containers",
+        "service": "Amazon ECS Anywhere",
+        "description": "Extends Amazon ECS to on-premises infrastructure."
+      },
+      {
+        "category": "Containers",
+        "service": "Amazon EKS Anywhere",
+        "description": "Enables running Amazon EKS clusters on on-premises infrastructure."
+      },
+      {
+        "category": "Containers",
+        "service": "Amazon EKS Distro",
+        "description": "Open-source Kubernetes distribution used by Amazon EKS."
+      },
+      {
+        "category": "Containers",
+        "service": "Amazon Elastic Container Registry (Amazon ECR)",
+        "description": "Fully managed container registry for storing and managing Docker images."
+      },
+      {
+        "category": "Containers",
+        "service": "Amazon Elastic Container Service (Amazon ECS)",
+        "description": "Fully managed container orchestration service for running Docker containers."
+      },
+      {
+        "category": "Containers",
+        "service": "Amazon Elastic Kubernetes Service (Amazon EKS)",
+        "description": "Managed Kubernetes service for running containerized applications."
+      },
+      {
+        "category": "Database",
+        "service": "Amazon Aurora",
+        "description": "High-performance, fully managed relational database compatible with MySQL and PostgreSQL."
+      },
+      {
+        "category": "Database",
+        "service": "Amazon Aurora Serverless",
+        "description": "On-demand, auto-scaling version of Amazon Aurora for variable workloads."
+      },
+      {
+        "category": "Database",
+        "service": "Amazon DocumentDB (with MongoDB compatibility)",
+        "description": "Managed document database compatible with MongoDB."
+      },
+      {
+        "category": "Database",
+        "service": "Amazon DynamoDB",
+        "description": "Fully managed NoSQL database service for key-value and document-based applications."
+      },
+      {
+        "category": "Database",
+        "service": "Amazon ElastiCache",
+        "description": "Managed in-memory caching service for Redis and Memcached."
+      },
+      {
+        "category": "Database",
+        "service": "Amazon Keyspaces (for Apache Cassandra)",
+        "description": "Managed Apache Cassandra-compatible database service."
+      },
+      {
+        "category": "Database",
+        "service": "Amazon Neptune",
+        "description": "Fully managed graph database for highly connected data applications."
+      },
+      {
+        "category": "Database",
+        "service": "Amazon Quantum Ledger Database (Amazon QLDB)",
+        "description": "Ledger database for immutable and verifiable transaction logs."
+      },
+      {
+        "category": "Database",
+        "service": "Amazon RDS",
+        "description": "Managed relational database service supporting multiple engines like MySQL and PostgreSQL."
+      },
+      {
+        "category": "Database",
+        "service": "Amazon Redshift",
+        "description": "Cloud data warehouse optimized for analytical workloads."
+      },
+      {
+      "category": "Developer Tools",
+      "service": "AWS X-Ray",
+      "description": "Traces requests across distributed applications to analyze and debug performance."
+    },
+    {
+      "category": "Front-End Web and Mobile",
+      "service": "AWS Amplify",
+      "description": "Full-stack development framework for building scalable web and mobile apps."
+    },
+    {
+      "category": "Front-End Web and Mobile",
+      "service": "Amazon API Gateway",
+      "description": "Fully managed service for creating, deploying, and managing APIs."
+    },
+    {
+      "category": "Front-End Web and Mobile",
+      "service": "AWS Device Farm",
+      "description": "Testing service for running applications on real mobile devices and browsers."
+    },
+    {
+      "category": "Front-End Web and Mobile",
+      "service": "Amazon Pinpoint",
+      "description": "Scalable marketing and customer engagement service for email, SMS, and push notifications."
+    },
+    {
+      "category": "Machine Learning",
+      "service": "Amazon Comprehend",
+      "description": "Natural language processing (NLP) service for analyzing text and extracting insights."
+    },
+    {
+      "category": "Machine Learning",
+      "service": "Amazon Forecast",
+      "description": "AI-powered service for generating time-series forecasts from historical data."
+    },
+    {
+      "category": "Machine Learning",
+      "service": "Amazon Fraud Detector",
+      "description": "Machine learning service for identifying fraudulent activities."
+    },
+    {
+      "category": "Machine Learning",
+      "service": "Amazon Kendra",
+      "description": "AI-powered enterprise search service for retrieving relevant information from documents."
+    },
+    {
+      "category": "Machine Learning",
+      "service": "Amazon Lex",
+      "description": "Conversational AI service for building chatbots and voice applications."
+    },
+    {
+      "category": "Machine Learning",
+      "service": "Amazon Polly",
+      "description": "Text-to-speech service that converts text into natural-sounding speech."
+    },
+    {
+      "category": "Machine Learning",
+      "service": "Amazon Rekognition",
+      "description": "Image and video analysis service for facial recognition, object detection, and moderation."
+    },
+    {
+      "category": "Machine Learning",
+      "service": "Amazon SageMaker",
+      "description": "Machine learning service for building, training, and deploying models at scale."
+    },
+    {
+      "category": "Machine Learning",
+      "service": "Amazon Textract",
+      "description": "AI service for extracting text and structure from scanned documents."
+    },
+    {
+      "category": "Machine Learning",
+      "service": "Amazon Transcribe",
+      "description": "Automatic speech-to-text transcription service."
+    },
+    {
+      "category": "Machine Learning",
+      "service": "Amazon Translate",
+      "description": "Neural machine translation service for converting text between languages."
+    },
+    {
+      "category": "Management and Governance",
+      "service": "AWS Auto Scaling",
+      "description": "Automatically adjusts resource capacity to maintain application performance and cost efficiency."
+    },
+    {
+      "category": "Management and Governance",
+      "service": "AWS CloudFormation",
+      "description": "Infrastructure-as-code service for defining and provisioning AWS resources."
+    },
+    {
+      "category": "Management and Governance",
+      "service": "AWS CloudTrail",
+      "description": "Monitors and logs AWS API activity for security and compliance."
+    },
+    {
+      "category": "Management and Governance",
+      "service": "Amazon CloudWatch",
+      "description": "Monitoring and observability service for AWS resources and applications."
+    },
+    {
+      "category": "Management and Governance",
+      "service": "AWS Command Line Interface (AWS CLI)",
+      "description": "Command-line tool for managing AWS services via scripts and automation."
+    },
+    {
+      "category": "Management and Governance",
+      "service": "AWS Compute Optimizer",
+      "description": "Uses machine learning to recommend cost and performance optimizations for compute resources."
+    },
+    {
+      "category": "Management and Governance",
+      "service": "AWS Config",
+      "description": "Tracks AWS resource configurations and compliance over time."
+    },
+    {
+      "category": "Management and Governance",
+      "service": "AWS Control Tower",
+      "description": "Provides a managed framework for setting up and governing multi-account AWS environments."
+    },
+    {
+      "category": "Management and Governance",
+      "service": "AWS Health Dashboard",
+      "description": "Provides real-time and historical health information about AWS services."
+    },
+    {
+      "category": "Management and Governance",
+      "service": "AWS License Manager",
+      "description": "Helps manage software licenses across AWS and on-premises environments."
+    },
+    {
+      "category": "Management and Governance",
+      "service": "Amazon Managed Grafana",
+      "description": "Fully managed service for visualizing operational data with Grafana."
+    },
+    {
+      "category": "Management and Governance",
+      "service": "Amazon Managed Service for Prometheus",
+      "description": "Monitors containerized applications using Prometheus metrics."
+    },
+    {
+      "category": "Management and Governance",
+      "service": "AWS Management Console",
+      "description": "Web-based user interface for managing AWS services."
+    },
+    {
+      "category": "Management and Governance",
+      "service": "AWS Organizations",
+      "description": "Enables centralized management and governance of multiple AWS accounts."
+    },
+    {
+      "category": "Management and Governance",
+      "service": "AWS Proton",
+      "description": "Fully managed service for automating infrastructure deployment for container and serverless applications."
+    },
+    {
+      "category": "Management and Governance",
+      "service": "AWS Service Catalog",
+      "description": "Manages and distributes approved AWS service configurations to maintain compliance."
+    },
+    {
+      "category": "Management and Governance",
+      "service": "AWS Systems Manager",
+      "description": "Centralized management service for AWS resources, automation, and patching."
+    },
+    {
+      "category": "Management and Governance",
+      "service": "AWS Trusted Advisor",
+      "description": "Provides recommendations for cost optimization, security, performance, and reliability."
+    },
+    {
+      "category": "Management and Governance",
+      "service": "AWS Well-Architected Tool",
+      "description": "Helps review workloads against AWS best practices and architectural guidelines."
+    },
+    {
+      "category": "Media Services",
+      "service": "Amazon Elastic Transcoder",
+      "description": "Converts media files to different formats for playback on various devices."
+    },
+    {
+      "category": "Media Services",
+      "service": "Amazon Kinesis Video Streams",
+      "description": "Streams video from connected devices to AWS for analytics and processing."
+    },
+    {
+      "category": "Migration and Transfer",
+      "service": "AWS Application Discovery Service",
+      "description": "Assesses on-premises workloads for cloud migration planning."
+    },
+    {
+      "category": "Migration and Transfer",
+      "service": "AWS Application Migration Service",
+      "description": "Automates migration of on-premises applications to AWS."
+    },
+    {
+      "category": "Migration and Transfer",
+      "service": "AWS Database Migration Service (AWS DMS)",
+      "description": "Managed service for migrating databases to AWS with minimal downtime."
+    },
+    {
+      "category": "Migration and Transfer",
+      "service": "AWS DataSync",
+      "description": "Accelerates secure data transfers between on-premises storage and AWS."
+    },
+    {
+      "category": "Migration and Transfer",
+      "service": "AWS Migration Hub",
+      "description": "Centralized service for tracking application migration progress."
+    },
+    {
+      "category": "Migration and Transfer",
+      "service": "AWS Snow Family",
+      "description": "Physical devices for transferring large amounts of data between on-premises and AWS."
+    },
+    {
+      "category": "Migration and Transfer",
+      "service": "AWS Transfer Family",
+      "description": "Managed file transfer service supporting SFTP, FTPS, and FTP."
+    },
+    {
+      "category": "Networking and Content Delivery",
+      "service": "AWS Client VPN",
+      "description": "Fully managed VPN service for secure remote access to AWS resources."
+    },
+    {
+      "category": "Networking and Content Delivery",
+      "service": "Amazon CloudFront",
+      "description": "Content delivery network (CDN) for distributing content with low latency."
+    },
+    {
+      "category": "Networking and Content Delivery",
+      "service": "AWS Direct Connect",
+      "description": "Dedicated network connection between AWS and on-premises data centers."
+    },
+    {
+      "category": "Networking and Content Delivery",
+      "service": "Elastic Load Balancing (ELB)",
+      "description": "Distributes incoming traffic across multiple targets for high availability."
+    },
+    {
+      "category": "Networking and Content Delivery",
+      "service": "AWS Global Accelerator",
+      "description": "Improves application performance by routing traffic to the nearest AWS endpoint."
+    },
+    {
+      "category": "Networking and Content Delivery",
+      "service": "AWS PrivateLink",
+      "description": "Securely connects VPCs to AWS services without exposing traffic to the public internet."
+    },
+    {
+      "category": "Networking and Content Delivery",
+      "service": "Amazon Route 53",
+      "description": "Scalable DNS service for domain name resolution and traffic routing."
+    },
+    {
+      "category": "Networking and Content Delivery",
+      "service": "AWS Site-to-Site VPN",
+      "description": "Creates secure VPN connections between on-premises networks and AWS."
+    },
+    {
+      "category": "Networking and Content Delivery",
+      "service": "AWS Transit Gateway",
+      "description": "Connects multiple VPCs and on-premises networks for simplified networking."
+    },
+    {
+      "category": "Networking and Content Delivery",
+      "service": "Amazon VPC",
+      "description": "Isolated virtual network for launching AWS resources."
+    },
+    {
+      "category": "Security, Identity, and Compliance",
+      "service": "AWS Artifact",
+      "description": "Provides compliance reports and agreements for AWS services."
+    },
+    {
+      "category": "Security, Identity, and Compliance",
+      "service": "AWS Audit Manager",
+      "description": "Automates evidence collection for compliance audits."
+    },
+    {
+      "category": "Security, Identity, and Compliance",
+      "service": "AWS Certificate Manager (ACM)",
+      "description": "Manages SSL/TLS certificates for secure web applications."
+    },
+    {
+      "category": "Security, Identity, and Compliance",
+      "service": "AWS CloudHSM",
+      "description": "Managed hardware security module (HSM) for cryptographic operations."
+    },
+    {
+      "category": "Security, Identity, and Compliance",
+      "service": "Amazon Cognito",
+      "description": "Identity management service for authentication and user sign-up/sign-in."
+    },
+    {
+      "category": "Security, Identity, and Compliance",
+      "service": "Amazon Detective",
+      "description": "Investigates and analyzes AWS security incidents."
+    },
+    {
+      "category": "Security, Identity, and Compliance",
+      "service": "AWS Directory Service",
+      "description": "Provides managed Microsoft Active Directory in AWS."
+    },
+    {
+      "category": "Security, Identity, and Compliance",
+      "service": "AWS Firewall Manager",
+      "description": "Centralized management for AWS firewall rules across accounts."
+    },
+    {
+      "category": "Security, Identity, and Compliance",
+      "service": "Amazon GuardDuty",
+      "description": "Threat detection service for monitoring AWS accounts and workloads."
+    },
+    {
+      "category": "Security, Identity, and Compliance",
+      "service": "AWS IAM Identity Center (AWS Single Sign-On)",
+      "description": "Manages single sign-on (SSO) access across AWS accounts."
+    },
+    {
+      "category": "Security, Identity, and Compliance",
+      "service": "AWS Identity and Access Management (IAM)",
+      "description": "Manages users, roles, and permissions for secure access control."
+    },
+    {
+      "category": "Security, Identity, and Compliance",
+      "service": "Amazon Inspector",
+      "description": "Automated security assessment for AWS workloads."
+    },
+    {
+      "category": "Security, Identity, and Compliance",
+      "service": "AWS Key Management Service (AWS KMS)",
+      "description": "Manages cryptographic keys for data encryption."
+    },
+    {
+      "category": "Security, Identity, and Compliance",
+      "service": "Amazon Macie",
+      "description": "Uses machine learning to discover and protect sensitive data in AWS."
+    },
+    {
+      "category": "Security, Identity, and Compliance",
+      "service": "AWS Network Firewall",
+      "description": "Managed firewall service for protecting VPC networks."
+    },
+    {
+      "category": "Security, Identity, and Compliance",
+      "service": "AWS Resource Access Manager (AWS RAM)",
+      "description": "Enables sharing of AWS resources across accounts."
+    },
+    {
+      "category": "Security, Identity, and Compliance",
+      "service": "AWS Secrets Manager",
+      "description": "Manages and rotates sensitive credentials like database passwords."
+    },
+    {
+      "category": "Security, Identity, and Compliance",
+      "service": "AWS Security Hub",
+      "description": "Provides a unified view of AWS security posture and threat detection."
+    },
+    {
+      "category": "Security, Identity, and Compliance",
+      "service": "AWS Shield",
+      "description": "DDoS protection service for AWS applications."
+    },
+    {
+      "category": "Security, Identity, and Compliance",
+      "service": "AWS WAF",
+      "description": "Protects web applications from common web exploits and attacks."
+    },
+    {
+      "category": "Serverless",
+      "service": "AWS AppSync",
+      "description": "GraphQL API service for real-time and offline applications."
+    },
+    {
+      "category": "Serverless",
+      "service": "AWS Fargate",
+      "description": "Serverless compute engine for running containers without managing infrastructure."
+    },
+    {
+      "category": "Serverless",
+      "service": "AWS Lambda",
+      "description": "Serverless compute service that runs code in response to events."
+    },
+    {
+      "category": "Storage",
+      "service": "AWS Backup",
+      "description": "Centralized backup service for AWS resources."
+    },
+    {
+      "category": "Storage",
+      "service": "Amazon Elastic Block Store (Amazon EBS)",
+      "description": "Block storage service for EC2 instances."
+    },
+    {
+      "category": "Storage",
+      "service": "Amazon Elastic File System (Amazon EFS)",
+      "description": "Scalable, elastic file storage for EC2 and on-premises servers."
+    },
+    {
+      "category": "Storage",
+      "service": "Amazon FSx (for all types)",
+      "description": "Managed file system service for Windows, Lustre, and NetApp ONTAP."
+    },
+    {
+      "category": "Storage",
+      "service": "Amazon S3",
+      "description": "Scalable object storage for data archiving, backups, and cloud applications."
+    },
+    {
+      "category": "Storage",
+      "service": "Amazon S3 Glacier",
+      "description": "Low-cost storage for long-term archival data."
+    },
+    {
+      "category": "Storage",
+      "service": "AWS Storage Gateway",
+      "description": "Hybrid cloud storage service for connecting on-premises environments to AWS."
+    }
+  ]
+}
